@@ -7,6 +7,9 @@
  *
  * @author PC
  */
+/**
+testing
+ */
 public class FormAdmind extends javax.swing.JFrame {
 
     /**
